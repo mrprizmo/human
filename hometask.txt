@@ -1,0 +1,2 @@
+в ветке demo сразу сделали merge ветки hat c веткой boots и buttons. Мы же сначала сделали ветку boots_buttons от ветки master
+а затем уже сделали merge ветки master c веткой boots_buttons и веткой hat
